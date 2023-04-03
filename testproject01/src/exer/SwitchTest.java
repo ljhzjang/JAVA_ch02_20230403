@@ -23,9 +23,10 @@ public class SwitchTest {
 			break;
 
 
+			
 		default:
 			break;
-		}
+		} 
 
 	}
 
